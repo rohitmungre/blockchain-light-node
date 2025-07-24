@@ -1,6 +1,6 @@
 # blockchain-light-node
 
-A Rust‑based light client that syncs block headers from a public blockchain (e.g. Ethereum or Bitcoin), verifies proof-of-work/state, and exposes a JSON‑RPC interface—ideal for bandwidth‑ and storage‑constrained environments.
+A Rust‑based light client that syncs block headers from solana, verifies proof-of-work/state, and exposes a JSON‑RPC interface—ideal for bandwidth‑ and storage‑constrained environments.
 
 ### Features
 #### Header Synchronization
